@@ -1,6 +1,6 @@
 # AutoRecon
 
-### $Automating Recon process by shell scripting.
+### $ Automating Recon process by shell scripting.
 
 - Extract Subdomains.
 - Extract response headers from each subdomains
